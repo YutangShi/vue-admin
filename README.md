@@ -4,6 +4,8 @@
 > In order to quick building the project,i remove authority part. But you need to provide data from backend in other pages, please reference the source code.
 ## Build Setup
 
+![Alt text](static/img/login.png "Login Panel")
+
 ``` bash
 # install dependencies
 npm install
