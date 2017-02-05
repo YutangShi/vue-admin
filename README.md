@@ -2,9 +2,14 @@
 
 > A Vue.js project
 > In order to quick building the project,i remove authority part. But you need to provide data from backend in other pages, please reference the source code.
-## Build Setup
+
+##Preview
 
 ![Alt text](static/img/login.png "Login Panel")
+
+![Alt text](static/img/manager.png "Manager List")
+
+## Build Setup
 
 ``` bash
 # install dependencies
