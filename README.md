@@ -1,7 +1,7 @@
 # vue-admin
 
 > A Vue.js project
-
+> In order to quick building the project,i remove authority part. But you need to provide data from backend in other pages, please reference the source code.
 ## Build Setup
 
 ``` bash
