@@ -34,3 +34,4 @@ npm test
 - [Vue-cli](https://github.com/vuejs/vue-cli)
 - [Vue-router](https://router.vuejs.org/)
 - [Vuex](https://vuex.vuejs.org/)
+- [vuejs-datepicker](https://www.npmjs.com/package/vuejs-datepicker)
